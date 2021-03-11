@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1080 1080" style="enable-background:new 0 0 1080 1080;" xml:space="preserve">
+<g>
+	<g id="File-DOC">
+		
+			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="324" y1="1108.006" x2="324" y2="-56" gradientTransform="matrix(1 0 0 -1 0 1078)">
+			<stop  offset="0" style="stop-color:#FFF33B"/>
+			<stop  offset="0.014" style="stop-color:#FEE72E"/>
+			<stop  offset="0.042" style="stop-color:#FED51B"/>
+			<stop  offset="0.07" style="stop-color:#FDCA10"/>
+			<stop  offset="0.1" style="stop-color:#FDC70C"/>
+			<stop  offset="0.4" style="stop-color:#F3903F"/>
+			<stop  offset="0.8" style="stop-color:#ED683C"/>
+			<stop  offset="1" style="stop-color:#E93E3A"/>
+		</linearGradient>
+		<path style="fill:url(#SVGID_1_);" d="M252,918h72c49.681-0.06,89.94-40.319,90-90V684c0-50.688-58.068-90-108-90h-54
+			c-9.941,0-18,8.059-18,18v288C234,909.941,242.059,918,252,918z M270,630h36c31.446,0,72,26.19,72,54v144
+			c0,29.823-24.177,54-54,54h-54V630z"/>
+		
+			<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="540" y1="1108.006" x2="540" y2="-56" gradientTransform="matrix(1 0 0 -1 0 1078)">
+			<stop  offset="0" style="stop-color:#FFF33B"/>
+			<stop  offset="0.014" style="stop-color:#FEE72E"/>
+			<stop  offset="0.042" style="stop-color:#FED51B"/>
+			<stop  offset="0.07" style="stop-color:#FDCA10"/>
+			<stop  offset="0.1" style="stop-color:#FDC70C"/>
+			<stop  offset="0.4" style="stop-color:#F3903F"/>
+			<stop  offset="0.8" style="stop-color:#ED683C"/>
+			<stop  offset="1" style="stop-color:#E93E3A"/>
+		</linearGradient>
+		<path style="fill:url(#SVGID_2_);" d="M504,918h72c29.823,0,54-24.177,54-54V648c0-29.823-24.177-54-54-54h-72
+			c-29.823,0-54,24.177-54,54v216C450,893.823,474.177,918,504,918z M486,648c0-9.941,8.059-18,18-18h72c9.941,0,18,8.059,18,18v216
+			c0,9.941-8.059,18-18,18h-72c-9.941,0-18-8.059-18-18V648z"/>
+		
+			<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="756" y1="1108.006" x2="756" y2="-56" gradientTransform="matrix(1 0 0 -1 0 1078)">
+			<stop  offset="0" style="stop-color:#FFF33B"/>
+			<stop  offset="0.014" style="stop-color:#FEE72E"/>
+			<stop  offset="0.042" style="stop-color:#FED51B"/>
+			<stop  offset="0.07" style="stop-color:#FDCA10"/>
+			<stop  offset="0.1" style="stop-color:#FDC70C"/>
+			<stop  offset="0.4" style="stop-color:#F3903F"/>
+			<stop  offset="0.8" style="stop-color:#ED683C"/>
+			<stop  offset="1" style="stop-color:#E93E3A"/>
+		</linearGradient>
+		<path style="fill:url(#SVGID_3_);" d="M756,918h72c9.941,0,18-8.059,18-18s-8.059-18-18-18h-72c-29.823,0-54-24.177-54-54V684
+			c0-29.823,24.177-54,54-54h72c9.941,0,18-8.059,18-18s-8.059-18-18-18h-72c-49.681,0.06-89.94,40.319-90,90v144
+			C666.06,877.681,706.319,917.94,756,918z"/>
+		
+			<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="540" y1="1108.006" x2="540" y2="-56" gradientTransform="matrix(1 0 0 -1 0 1078)">
+			<stop  offset="0" style="stop-color:#FFF33B"/>
+			<stop  offset="0.014" style="stop-color:#FEE72E"/>
+			<stop  offset="0.042" style="stop-color:#FED51B"/>
+			<stop  offset="0.07" style="stop-color:#FDCA10"/>
+			<stop  offset="0.1" style="stop-color:#FDC70C"/>
+			<stop  offset="0.4" style="stop-color:#F3903F"/>
+			<stop  offset="0.8" style="stop-color:#ED683C"/>
+			<stop  offset="1" style="stop-color:#E93E3A"/>
+		</linearGradient>
+		<path style="fill:url(#SVGID_4_);" d="M1007.838,162c0.042-4.75-1.795-9.325-5.112-12.726l-144-144
+			c-3.391-3.332-7.972-5.172-12.726-5.112V0H162c-49.681,0.06-89.94,40.319-90,90v900c0.06,49.681,40.319,89.94,90,90h756
+			c49.681-0.06,89.94-40.319,90-90L1007.838,162z M864,61.452L946.548,144H864V61.452z M162,36h666v126c0,9.941,8.059,18,18,18h126
+			v360H108V90C108,60.177,132.177,36,162,36z M972,936H108V576h864V936z M918,1044H162c-29.823,0-54-24.177-54-54v-18h864v18
+			C972,1019.823,947.823,1044,918,1044z"/>
+	</g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+</svg>
